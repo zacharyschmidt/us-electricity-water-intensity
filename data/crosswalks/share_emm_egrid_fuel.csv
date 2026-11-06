@@ -1,0 +1,638 @@
+emm_region_name,egrid_subregion,fuel,share,net_gen_mwh_anchor,is_synthetic,share_basis
+Florida Reliability Coordinating Council,FRCC,biomass,1.0,2801641.393,False,anchor_2023
+Florida Reliability Coordinating Council,FRCC,co2,1.0,88584926.2389504,False,anchor_2023
+Florida Reliability Coordinating Council,FRCC,coal,1.0,11373250.602,False,anchor_2023
+Florida Reliability Coordinating Council,FRCC,gas,1.0,181551791.174,False,anchor_2023
+Florida Reliability Coordinating Council,FRCC,geothermal,1.0,0.0,True,synthetic
+Florida Reliability Coordinating Council,FRCC,hydro,1.0,220854.5,False,multiyear_2014_2023
+Florida Reliability Coordinating Council,FRCC,nuclear,1.0,29940194.0,False,anchor_2023
+Florida Reliability Coordinating Council,FRCC,oil,1.0,1201553.5489999999,False,anchor_2023
+Florida Reliability Coordinating Council,FRCC,other,1.0,944757.708,False,anchor_2023
+Florida Reliability Coordinating Council,FRCC,other_fossil,1.0,1459608.793,False,anchor_2023
+Florida Reliability Coordinating Council,FRCC,solar,1.0,12000409.7,False,anchor_2023
+Florida Reliability Coordinating Council,FRCC,wind,1.0,0.0,True,synthetic
+Midcontinent / Central,RFCW,biomass,0.3082875932580833,206454.0,False,anchor_2023
+Midcontinent / Central,SRMW,biomass,0.20215548358601215,135379.461,False,anchor_2023
+Midcontinent / Central,SRTV,biomass,0.48955692315590454,327846.424,False,anchor_2023
+Midcontinent / Central,MROW,co2,0.00045848742580616717,51585.8387184,False,anchor_2023
+Midcontinent / Central,RFCW,co2,0.47804250565975454,53786041.2510624,False,anchor_2023
+Midcontinent / Central,SPNO,co2,8.686416838357876e-07,97.73356319999999,False,anchor_2023
+Midcontinent / Central,SPSO,co2,5.436922403119544e-07,61.172496,False,anchor_2023
+Midcontinent / Central,SRMV,co2,1.2703635679073042e-05,1429.325352,False,anchor_2023
+Midcontinent / Central,SRMW,co2,0.49189741832547934,55344900.338582404,False,anchor_2023
+Midcontinent / Central,SRTV,co2,0.029587472619356715,3328978.0803552,False,anchor_2023
+Midcontinent / Central,RFCW,coal,0.4176216513170319,40664030.939,False,anchor_2023
+Midcontinent / Central,SRMW,coal,0.5526867884864775,53815391.505,False,anchor_2023
+Midcontinent / Central,SRTV,coal,0.029691560196490666,2891082.2,False,anchor_2023
+Midcontinent / Central,MROW,gas,0.005103974799962292,144131.0,False,anchor_2023
+Midcontinent / Central,RFCW,gas,0.7470065015252986,21094695.466,False,anchor_2023
+Midcontinent / Central,SPNO,gas,9.527747778299565e-05,2690.538,False,anchor_2023
+Midcontinent / Central,SRMV,gas,8.616740810288867e-05,2433.279,False,anchor_2023
+Midcontinent / Central,SRMW,gas,0.24234398651454891,6843544.98,False,anchor_2023
+Midcontinent / Central,SRTV,gas,0.005364092274304265,151476.44999999998,False,anchor_2023
+Midcontinent / Central,MROW,geothermal,0.14285714285714285,0.0,True,synthetic
+Midcontinent / Central,RFCW,geothermal,0.14285714285714285,0.0,True,synthetic
+Midcontinent / Central,SPNO,geothermal,0.14285714285714285,0.0,True,synthetic
+Midcontinent / Central,SPSO,geothermal,0.14285714285714285,0.0,True,synthetic
+Midcontinent / Central,SRMV,geothermal,0.14285714285714285,0.0,True,synthetic
+Midcontinent / Central,SRMW,geothermal,0.14285714285714285,0.0,True,synthetic
+Midcontinent / Central,SRTV,geothermal,0.14285714285714285,0.0,True,synthetic
+Midcontinent / Central,RFCW,hydro,0.2832199942698343,689823.375,False,multiyear_2014_2023
+Midcontinent / Central,SRMW,hydro,0.6205190458793053,1509474.125,False,multiyear_2014_2023
+Midcontinent / Central,SRTV,hydro,0.09626095985086039,340062.0,False,multiyear_2014_2023
+Midcontinent / Central,SRMW,nuclear,1.0,17281372.0,False,anchor_2023
+Midcontinent / Central,MROW,oil,0.0006455468899781786,90.02000000000001,False,anchor_2023
+Midcontinent / Central,RFCW,oil,0.5032157335309798,70172.254,False,anchor_2023
+Midcontinent / Central,SPNO,oil,0.04570504968333817,6373.462,False,anchor_2023
+Midcontinent / Central,SPSO,oil,0.0005378362224879292,75.0,False,anchor_2023
+Midcontinent / Central,SRMV,oil,0.00039958362870999873,55.721,False,anchor_2023
+Midcontinent / Central,SRMW,oil,0.3915042816603836,54594.354,False,anchor_2023
+Midcontinent / Central,SRTV,oil,0.05799196838412234,8086.844,False,anchor_2023
+Midcontinent / Central,RFCW,other,0.6448505501753778,481609.0,False,anchor_2023
+Midcontinent / Central,SRMW,other,0.35514944982462227,265244.67,False,anchor_2023
+Midcontinent / Central,RFCW,other_fossil,0.970886720236612,2271502.2,False,anchor_2023
+Midcontinent / Central,SRMW,other_fossil,0.029113279763387914,68113.898,False,anchor_2023
+Midcontinent / Central,RFCW,solar,0.4165750397292943,1143426.0,False,anchor_2023
+Midcontinent / Central,SPNO,solar,0.003201660141662896,8788.0,False,anchor_2023
+Midcontinent / Central,SRMW,solar,0.5802233001290428,1592612.0,False,anchor_2023
+Midcontinent / Central,MROW,wind,0.05864277278390374,1121190.0,False,anchor_2023
+Midcontinent / Central,RFCW,wind,0.3639530979163114,6958412.0,False,anchor_2023
+Midcontinent / Central,SPNO,wind,0.0875313955033166,1673511.0,False,anchor_2023
+Midcontinent / Central,SRMW,wind,0.48987273379646823,9365867.0,False,anchor_2023
+Midcontinent / East,RFCM,biomass,1.0,1347621.268,False,anchor_2023
+Midcontinent / East,RFCM,co2,1.0,40564712.3669424,False,anchor_2023
+Midcontinent / East,RFCM,coal,1.0,23554195.386,False,anchor_2023
+Midcontinent / East,RFCM,gas,1.0,45648441.514,False,anchor_2023
+Midcontinent / East,RFCM,geothermal,1.0,0.0,True,synthetic
+Midcontinent / East,RFCM,hydro,1.0,-141372.75,False,multiyear_2014_2023
+Midcontinent / East,RFCM,nuclear,1.0,9355990.0,False,anchor_2023
+Midcontinent / East,RFCM,oil,1.0,1341516.4079999998,False,anchor_2023
+Midcontinent / East,RFCM,other,1.0,0.0,True,synthetic
+Midcontinent / East,RFCM,other_fossil,1.0,1500003.125,False,anchor_2023
+Midcontinent / East,RFCM,solar,1.0,1224946.0,False,anchor_2023
+Midcontinent / East,RFCM,wind,1.0,8029036.0,False,anchor_2023
+Midcontinent / South,ERCT,biomass,0.09981397277408843,332997.535,False,anchor_2023
+Midcontinent / South,SPSO,biomass,0.3014075289732223,1005550.239,False,anchor_2023
+Midcontinent / South,SRMV,biomass,0.5113456433244546,1705941.904,False,anchor_2023
+Midcontinent / South,SRSO,biomass,0.08743285492823462,291691.878,False,anchor_2023
+Midcontinent / South,ERCT,co2,0.0003220810492687958,23099.604494400002,False,anchor_2023
+Midcontinent / South,SPSO,co2,0.11891832474310965,8528804.3954736,False,anchor_2023
+Midcontinent / South,SRMV,co2,0.8273196645819798,59335242.1251408,False,anchor_2023
+Midcontinent / South,SRMW,co2,0.023589454619271536,1691832.1434336,False,anchor_2023
+Midcontinent / South,SRSO,co2,0.0298504750063702,2140871.5855296,False,anchor_2023
+Midcontinent / South,SPSO,coal,0.11971700812790159,1973707.39,False,anchor_2023
+Midcontinent / South,SRMV,coal,0.8802829918720984,14512733.6,False,anchor_2023
+Midcontinent / South,ERCT,gas,0.0005470060902197941,74702.228,False,anchor_2023
+Midcontinent / South,SPSO,gas,0.0886166529573511,12101988.501,False,anchor_2023
+Midcontinent / South,SRMV,gas,0.8420916937975779,115000777.563,False,anchor_2023
+Midcontinent / South,SRMW,gas,0.02988677811285195,4081506.5,False,anchor_2023
+Midcontinent / South,SRSO,gas,0.03885786904199928,5306649.13,False,anchor_2023
+Midcontinent / South,ERCT,geothermal,0.2,0.0,True,synthetic
+Midcontinent / South,SPSO,geothermal,0.2,0.0,True,synthetic
+Midcontinent / South,SRMV,geothermal,0.2,0.0,True,synthetic
+Midcontinent / South,SRMW,geothermal,0.2,0.0,True,synthetic
+Midcontinent / South,SRSO,geothermal,0.2,0.0,True,synthetic
+Midcontinent / South,ERCT,hydro,0.04118693624076926,126735.625,False,multiyear_2014_2023
+Midcontinent / South,SPSO,hydro,0.17846435845034445,539871.125,False,multiyear_2014_2023
+Midcontinent / South,SRMV,hydro,0.7803487053088863,2352170.375,False,multiyear_2014_2023
+Midcontinent / South,SRMV,nuclear,1.0,38933559.0,False,anchor_2023
+Midcontinent / South,SPSO,oil,0.7510586698899728,806552.793,False,anchor_2023
+Midcontinent / South,SRMV,oil,0.24352594627088756,261519.559,False,anchor_2023
+Midcontinent / South,SRMW,oil,0.005415383839139698,5815.515,False,anchor_2023
+Midcontinent / South,SPSO,other,0.6602282846564013,366259.0,False,anchor_2023
+Midcontinent / South,SRMV,other,0.3397717153435987,188487.0,False,anchor_2023
+Midcontinent / South,SPSO,other_fossil,0.008187404834965262,18144.362,False,anchor_2023
+Midcontinent / South,SRMV,other_fossil,0.9918125951650346,2197986.679,False,anchor_2023
+Midcontinent / South,SRMV,solar,0.8661957868234126,1287425.49,False,anchor_2023
+Midcontinent / South,SRSO,solar,0.13380421317658744,198873.0,False,anchor_2023
+Midcontinent / South,SRMV,wind,1.0,0.0,True,synthetic
+Midcontinent / West,MROE,biomass,0.24603429277879194,737021.503,False,anchor_2023
+Midcontinent / West,MROW,biomass,0.4982941895280954,1492692.455,False,anchor_2023
+Midcontinent / West,RFCW,biomass,0.2556715176931127,765890.82,False,anchor_2023
+Midcontinent / West,MROE,co2,0.17958904343674886,15626995.0806816,False,anchor_2023
+Midcontinent / West,MROW,co2,0.6343723109877463,55200099.0339792,False,anchor_2023
+Midcontinent / West,NWPP,co2,6.385877553083182e-07,55.5669072,False,anchor_2023
+Midcontinent / West,RFCW,co2,0.18603742501182924,16188102.959112,False,anchor_2023
+Midcontinent / West,SRMW,co2,5.81975920214619e-07,50.640811199999995,False,anchor_2023
+Midcontinent / West,MROE,coal,0.1520911276633006,9677002.226,False,anchor_2023
+Midcontinent / West,MROW,coal,0.6881640662511175,43785362.784,False,anchor_2023
+Midcontinent / West,NWPP,coal,9.298507095273508e-07,59.163,False,anchor_2023
+Midcontinent / West,RFCW,coal,0.15974387623487246,10163918.629999999,False,anchor_2023
+Midcontinent / West,MROE,gas,0.20112062823856985,10437642.188,False,anchor_2023
+Midcontinent / West,MROW,gas,0.4894767564800377,25402581.963999998,False,anchor_2023
+Midcontinent / West,NWPP,gas,1.4612864485107434e-06,75.837,False,anchor_2023
+Midcontinent / West,RFCW,gas,0.30940115399494394,16057122.366,False,anchor_2023
+Midcontinent / West,MROE,geothermal,0.2,0.0,True,synthetic
+Midcontinent / West,MROW,geothermal,0.2,0.0,True,synthetic
+Midcontinent / West,NWPP,geothermal,0.2,0.0,True,synthetic
+Midcontinent / West,RFCW,geothermal,0.2,0.0,True,synthetic
+Midcontinent / West,SRMW,geothermal,0.2,0.0,True,synthetic
+Midcontinent / West,MROE,hydro,0.28685076885751004,1225785.435,False,multiyear_2014_2023
+Midcontinent / West,MROW,hydro,0.4763071860933624,2048289.58125,False,multiyear_2014_2023
+Midcontinent / West,RFCW,hydro,0.23684204504912754,1007709.375,False,multiyear_2014_2023
+Midcontinent / West,MROW,nuclear,0.5518569273325672,11923652.0,False,anchor_2023
+Midcontinent / West,RFCW,nuclear,0.44814307266743275,9682767.0,False,anchor_2023
+Midcontinent / West,MROE,oil,0.27055457196507043,74031.732,False,anchor_2023
+Midcontinent / West,MROW,oil,0.7026951103709831,192278.163,False,anchor_2023
+Midcontinent / West,RFCW,oil,0.02647622448323595,7244.678,False,anchor_2023
+Midcontinent / West,SRMW,oil,0.00027409318071040513,75.0,False,anchor_2023
+Midcontinent / West,MROW,other,1.0,87385.675,False,anchor_2023
+Midcontinent / West,MROW,other_fossil,0.960969232304844,373807.586,False,anchor_2023
+Midcontinent / West,RFCW,other_fossil,0.039030767695155975,15182.585,False,anchor_2023
+Midcontinent / West,MROE,solar,0.29743781727168794,1149651.0,False,anchor_2023
+Midcontinent / West,MROW,solar,0.6905216081730713,2668991.0,False,anchor_2023
+Midcontinent / West,RFCW,solar,0.010759910079243378,41589.0,False,anchor_2023
+Midcontinent / West,SRMW,solar,0.0012806644759973725,4950.0,False,anchor_2023
+Midcontinent / West,MROE,wind,0.018573182783138936,1319402.0,False,anchor_2023
+Midcontinent / West,MROW,wind,0.925021467027801,65711687.0,False,anchor_2023
+Midcontinent / West,RFCW,wind,0.023610640686135182,1677253.0,False,anchor_2023
+Midcontinent / West,SRMW,wind,0.03279470950292487,2329671.0,False,anchor_2023
+Northeast Power Coordinating Council / New England,NEWE,biomass,1.0,4386334.229,False,anchor_2023
+Northeast Power Coordinating Council / New England,NEWE,co2,1.0,25307834.5876608,False,anchor_2023
+Northeast Power Coordinating Council / New England,NEWE,coal,1.0,203345.326,False,anchor_2023
+Northeast Power Coordinating Council / New England,NEWE,gas,1.0,57464856.849,False,anchor_2023
+Northeast Power Coordinating Council / New England,NEWE,geothermal,1.0,0.0,True,synthetic
+Northeast Power Coordinating Council / New England,NEWE,hydro,1.0,6348563.37875,False,multiyear_2014_2023
+Northeast Power Coordinating Council / New England,NEWE,nuclear,1.0,23204239.0,False,anchor_2023
+Northeast Power Coordinating Council / New England,NEWE,oil,1.0,387182.435,False,anchor_2023
+Northeast Power Coordinating Council / New England,NEWE,other,1.0,103827.0,False,anchor_2023
+Northeast Power Coordinating Council / New England,NEWE,other_fossil,1.0,1594279.338,False,anchor_2023
+Northeast Power Coordinating Council / New England,NEWE,solar,1.0,3545621.66,False,anchor_2023
+Northeast Power Coordinating Council / New England,NEWE,wind,1.0,3442590.05,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,biomass,1.0,388255.482,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NEWE,co2,7.3645708455480775e-06,111.1192992,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYCW,co2,0.6411985637978372,9674635.0264704,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,co2,0.3512360475321998,5299576.0749792,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYUP,co2,0.0019099127571999422,28817.4520368,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,RFCE,co2,0.005648111341917596,85220.739576,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NEWE,coal,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYCW,coal,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,coal,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYUP,coal,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,RFCE,coal,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYCW,gas,0.6869173845888618,19267051.357,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,gas,0.30529404371086183,8563061.805,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYUP,gas,0.0017134205942707557,48059.0,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,RFCE,gas,0.006075151106005674,170399.31,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NEWE,geothermal,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYCW,geothermal,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,geothermal,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYUP,geothermal,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,RFCE,geothermal,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NEWE,hydro,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYCW,hydro,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,hydro,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYUP,hydro,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,RFCE,hydro,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NEWE,nuclear,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYCW,nuclear,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,nuclear,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYUP,nuclear,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,RFCE,nuclear,0.2,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NEWE,oil,0.00042208537536494024,119.0,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYCW,oil,0.47392237551295036,133614.586,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,oil,0.5249401505106082,147998.205,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYUP,oil,0.00018444066822669657,52.0,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,RFCE,oil,0.0005309479328498204,149.692,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYCW,other,0.969437652811736,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,other,0.03056234718826406,0.0,True,synthetic
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,other_fossil,1.0,474533.331,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYCW,solar,0.030856277256897012,8922.0,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,solar,0.8570000726274178,247799.0,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,RFCE,solar,0.1121436501156851,32426.0,False,anchor_2023
+Northeast Power Coordinating Council / New York City and Long Island,NYLI,wind,1.0,0.0,True,synthetic
+Northeast Power Coordinating Council / Upstate New York,NYCW,biomass,0.1448345558313157,179416.21,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYUP,biomass,0.8551654441686843,1059350.388,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYCW,co2,0.1877785744877621,2164604.007384,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYUP,co2,0.8122214255122379,9362824.0460496,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NEWE,coal,0.3333333333333333,0.0,True,synthetic
+Northeast Power Coordinating Council / Upstate New York,NYCW,coal,0.3333333333333333,0.0,True,synthetic
+Northeast Power Coordinating Council / Upstate New York,NYUP,coal,0.3333333333333333,0.0,True,synthetic
+Northeast Power Coordinating Council / Upstate New York,NYCW,gas,0.19397692381147605,5223437.818,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYUP,gas,0.806023076188524,21704702.475,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NEWE,geothermal,0.3333333333333333,0.0,True,synthetic
+Northeast Power Coordinating Council / Upstate New York,NYCW,geothermal,0.3333333333333333,0.0,True,synthetic
+Northeast Power Coordinating Council / Upstate New York,NYUP,geothermal,0.3333333333333333,0.0,True,synthetic
+Northeast Power Coordinating Council / Upstate New York,NEWE,hydro,0.00023882044644954633,6735.25,False,multiyear_2014_2023
+Northeast Power Coordinating Council / Upstate New York,NYUP,hydro,0.9997611795535505,28055978.78,False,multiyear_2014_2023
+Northeast Power Coordinating Council / Upstate New York,NYUP,nuclear,1.0,27524923.0,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYCW,oil,0.002806762464307134,318.182,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYUP,oil,0.9971932375356929,113044.45700000001,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NEWE,other,0.17777777777777778,8.0,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYUP,other,0.8222222222222222,37.0,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYCW,other_fossil,0.44859301880984725,219290.79,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYUP,other_fossil,0.5514069811901527,269550.5,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NEWE,solar,0.08046794345340003,156278.0,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYCW,solar,0.007294109772078379,14166.0,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYUP,solar,0.9122379467745216,1771671.0,False,anchor_2023
+Northeast Power Coordinating Council / Upstate New York,NYUP,wind,1.0,4772445.43,False,anchor_2023
+PJM / Commonwealth Edison,RFCW,biomass,0.9295816348346942,187016.313,False,anchor_2023
+PJM / Commonwealth Edison,SRMW,biomass,0.07041836516530574,14167.0,False,anchor_2023
+PJM / Commonwealth Edison,MROW,co2,0.025188273018810457,292021.22708640003,False,anchor_2023
+PJM / Commonwealth Edison,RFCW,co2,0.9707827762666197,11254808.0349936,False,anchor_2023
+PJM / Commonwealth Edison,SRMW,co2,0.004028950714569738,46709.797478399996,False,anchor_2023
+PJM / Commonwealth Edison,RFCW,coal,1.0,1334496.4,False,anchor_2023
+PJM / Commonwealth Edison,MROW,gas,0.03123053288968674,770319.0,False,anchor_2023
+PJM / Commonwealth Edison,RFCW,gas,0.9687284018577323,23894241.46,False,anchor_2023
+PJM / Commonwealth Edison,SRMW,gas,4.106525258094104e-05,1012.898,False,anchor_2023
+PJM / Commonwealth Edison,MROW,geothermal,0.3333333333333333,0.0,True,synthetic
+PJM / Commonwealth Edison,RFCW,geothermal,0.3333333333333333,0.0,True,synthetic
+PJM / Commonwealth Edison,SRMW,geothermal,0.3333333333333333,0.0,True,synthetic
+PJM / Commonwealth Edison,MROW,hydro,0.10006274136223345,11799.625,False,multiyear_2014_2023
+PJM / Commonwealth Edison,RFCW,hydro,0.41574697108959535,53535.25,False,multiyear_2014_2023
+PJM / Commonwealth Edison,SRMW,hydro,0.4841902875481712,60454.5,False,multiyear_2014_2023
+PJM / Commonwealth Edison,RFCW,nuclear,1.0,89457832.0,False,anchor_2023
+PJM / Commonwealth Edison,RFCW,oil,0.9195662342849031,10702.07,False,anchor_2023
+PJM / Commonwealth Edison,SRMW,oil,0.08043376571509683,936.102,False,anchor_2023
+PJM / Commonwealth Edison,RFCW,other,1.0,0.0,True,synthetic
+PJM / Commonwealth Edison,RFCW,other_fossil,1.0,179973.978,False,anchor_2023
+PJM / Commonwealth Edison,RFCW,solar,0.7583764136383953,269778.0,False,anchor_2023
+PJM / Commonwealth Edison,SRMW,solar,0.2416235863616047,85953.0,False,anchor_2023
+PJM / Commonwealth Edison,RFCW,wind,0.9136504436614473,10451982.0,False,anchor_2023
+PJM / Commonwealth Edison,SRMW,wind,0.08634955633855265,987822.0,False,anchor_2023
+PJM / Dominion,RFCW,biomass,0.0018140678703535656,6125.0,False,anchor_2023
+PJM / Dominion,SRVC,biomass,0.9981859321296465,3370264.66,False,anchor_2023
+PJM / Dominion,RFCW,co2,1.738066758494477e-07,3.1597776,False,anchor_2023
+PJM / Dominion,SRVC,co2,0.9999998261933242,18179837.0825904,False,anchor_2023
+PJM / Dominion,SRVC,coal,1.0,788495.055,False,anchor_2023
+PJM / Dominion,SRVC,gas,1.0,41512505.822,False,anchor_2023
+PJM / Dominion,RFCW,geothermal,0.5,0.0,True,synthetic
+PJM / Dominion,SRVC,geothermal,0.5,0.0,True,synthetic
+PJM / Dominion,SRVC,hydro,1.0,414885.265,False,multiyear_2014_2023
+PJM / Dominion,SRVC,nuclear,1.0,29662935.0,False,anchor_2023
+PJM / Dominion,SRVC,oil,1.0,109198.78,False,anchor_2023
+PJM / Dominion,SRVC,other,1.0,0.0,True,synthetic
+PJM / Dominion,SRVC,other_fossil,1.0,478300.49899999995,False,anchor_2023
+PJM / Dominion,SRVC,solar,1.0,6787199.0,False,anchor_2023
+PJM / Dominion,SRVC,wind,1.0,566070.0,False,anchor_2023
+PJM / East,RFCE,biomass,0.9858297338432648,2487808.702,False,anchor_2023
+PJM / East,RFCW,biomass,0.014170266156735348,35759.635,False,anchor_2023
+PJM / East,NYCW,co2,0.021133910427670922,1749120.4082016,False,anchor_2023
+PJM / East,RFCE,co2,0.9281840643881646,76819938.0396336,False,anchor_2023
+PJM / East,RFCW,co2,0.0506820251841644,4194631.4139072,False,anchor_2023
+PJM / East,RFCE,coal,0.9271443668106765,12875581.153,False,anchor_2023
+PJM / East,RFCW,coal,0.0728556331893235,1011771.9,False,anchor_2023
+PJM / East,NYCW,gas,0.03347585254803777,5605072.0,False,anchor_2023
+PJM / East,RFCE,gas,0.9199304470193791,154029725.849,False,anchor_2023
+PJM / East,RFCW,gas,0.04659370043258313,7801475.5649999995,False,anchor_2023
+PJM / East,NYCW,geothermal,0.2,0.0,True,synthetic
+PJM / East,NYLI,geothermal,0.2,0.0,True,synthetic
+PJM / East,NYUP,geothermal,0.2,0.0,True,synthetic
+PJM / East,RFCE,geothermal,0.2,0.0,True,synthetic
+PJM / East,RFCW,geothermal,0.2,0.0,True,synthetic
+PJM / East,NYUP,hydro,0.01866708754691691,212299.33333333334,False,multiyear_2014_2023
+PJM / East,RFCE,hydro,0.9303932204755059,3843184.25,False,multiyear_2014_2023
+PJM / East,RFCW,hydro,0.050939691977577216,196157.25,False,multiyear_2014_2023
+PJM / East,RFCE,nuclear,1.0,103611353.0,False,anchor_2023
+PJM / East,NYCW,oil,0.05070570748494053,9772.967,False,anchor_2023
+PJM / East,RFCE,oil,0.9213394146974713,177578.03100000002,False,anchor_2023
+PJM / East,RFCW,oil,0.027954877817588267,5387.995000000001,False,anchor_2023
+PJM / East,RFCE,other,1.0,23293.0,False,anchor_2023
+PJM / East,NYCW,other_fossil,0.014071761229846661,29347.003,False,anchor_2023
+PJM / East,RFCE,other_fossil,0.9859282387701533,2056177.511,False,anchor_2023
+PJM / East,NYLI,solar,0.0006323909349191752,1768.0,False,anchor_2023
+PJM / East,NYUP,solar,0.0017891512762815128,5002.0,False,anchor_2023
+PJM / East,RFCE,solar,0.9930175885517211,2776218.0,False,anchor_2023
+PJM / East,RFCW,solar,0.004560869237078283,12751.0,False,anchor_2023
+PJM / East,RFCE,wind,0.8401943531928063,2462224.0,False,anchor_2023
+PJM / East,RFCW,wind,0.1598056468071936,468317.0,False,anchor_2023
+PJM / West,RFCE,biomass,0.02459434048732216,25791.601,False,anchor_2023
+PJM / West,RFCM,biomass,0.021916116313218603,22983.0,False,anchor_2023
+PJM / West,RFCW,biomass,0.5791219458807698,607313.791,False,anchor_2023
+PJM / West,SRTV,biomass,0.08409331024295387,88187.0,False,anchor_2023
+PJM / West,SRVC,biomass,0.29027428707573566,304404.934,False,anchor_2023
+PJM / West,RFCE,co2,0.0035273063486066705,518963.7155472,False,anchor_2023
+PJM / West,RFCW,co2,0.900282727752699,132456334.4553456,False,anchor_2023
+PJM / West,SRTV,co2,0.05063213559810098,7449378.823152,False,anchor_2023
+PJM / West,SRVC,co2,0.04555783030059336,6702809.0413536,False,anchor_2023
+PJM / West,RFCE,coal,0.007291729353730487,656445.35,False,anchor_2023
+PJM / West,RFCW,coal,0.8664963095736605,78007211.406,False,anchor_2023
+PJM / West,SRTV,coal,0.08742247642803011,7870297.34,False,anchor_2023
+PJM / West,SRVC,coal,0.03878948464457898,3492062.8,False,anchor_2023
+PJM / West,RFCW,gas,0.9356122761467071,129603345.529,False,anchor_2023
+PJM / West,SRTV,gas,0.0032431032631905967,449242.751,False,anchor_2023
+PJM / West,SRVC,gas,0.06114462059010224,8469905.314,False,anchor_2023
+PJM / West,RFCE,geothermal,0.2,0.0,True,synthetic
+PJM / West,RFCM,geothermal,0.2,0.0,True,synthetic
+PJM / West,RFCW,geothermal,0.2,0.0,True,synthetic
+PJM / West,SRTV,geothermal,0.2,0.0,True,synthetic
+PJM / West,SRVC,geothermal,0.2,0.0,True,synthetic
+PJM / West,RFCE,hydro,0.0062946823902205575,25471.14285714286,False,multiyear_2014_2023
+PJM / West,RFCM,hydro,0.0012771173069350918,22056.0,False,multiyear_2014_2023
+PJM / West,RFCW,hydro,0.9244012480191884,3101195.4525,False,multiyear_2014_2023
+PJM / West,SRTV,hydro,0.05544628283571083,189287.375,False,multiyear_2014_2023
+PJM / West,SRVC,hydro,0.012580669447945178,43162.125,False,multiyear_2014_2023
+PJM / West,RFCW,nuclear,1.0,49859211.0,False,anchor_2023
+PJM / West,RFCE,oil,0.002220380577976143,2855.049,False,anchor_2023
+PJM / West,RFCW,oil,0.964764370432683,1240530.375,False,anchor_2023
+PJM / West,SRTV,oil,0.011247640570183168,14462.64,False,anchor_2023
+PJM / West,SRVC,oil,0.021767608419157574,27989.611,False,anchor_2023
+PJM / West,RFCW,other,1.0,0.0,True,synthetic
+PJM / West,RFCW,other_fossil,0.9390920352029943,1404957.46,False,anchor_2023
+PJM / West,SRTV,other_fossil,0.0609079647970057,91123.23,False,anchor_2023
+PJM / West,RFCE,solar,0.019752193782715814,63606.0,False,anchor_2023
+PJM / West,RFCW,solar,0.8076131481142781,2600675.27,False,anchor_2023
+PJM / West,SRTV,solar,0.007354203269538658,23682.0,False,anchor_2023
+PJM / West,SRVC,solar,0.16528045483346748,532236.0,False,anchor_2023
+PJM / West,RFCE,wind,0.02457808723871374,254596.0,False,anchor_2023
+PJM / West,RFCW,wind,0.8916649241629563,9236452.0,False,anchor_2023
+PJM / West,SRVC,wind,0.08375698859833001,867610.0,False,anchor_2023
+SERC Reliability Corporation / Central,SRSO,biomass,0.007842003694938525,7768.0,False,anchor_2023
+SERC Reliability Corporation / Central,SRTV,biomass,0.9921579963050615,982795.165,False,anchor_2023
+SERC Reliability Corporation / Central,SRTV,co2,1.0,74948460.8068224,False,anchor_2023
+SERC Reliability Corporation / Central,SRTV,coal,1.0,48176790.239999995,False,anchor_2023
+SERC Reliability Corporation / Central,SRTV,gas,1.0,61761936.561000004,False,anchor_2023
+SERC Reliability Corporation / Central,SRSO,geothermal,0.3333333333333333,0.0,True,synthetic
+SERC Reliability Corporation / Central,SRTV,geothermal,0.3333333333333333,0.0,True,synthetic
+SERC Reliability Corporation / Central,SRVC,geothermal,0.3333333333333333,0.0,True,synthetic
+SERC Reliability Corporation / Central,SRTV,hydro,0.9996581429831245,19232816.875,False,multiyear_2014_2023
+SERC Reliability Corporation / Central,SRVC,hydro,0.00034185701687551465,7707.714285714285,False,multiyear_2014_2023
+SERC Reliability Corporation / Central,SRTV,nuclear,1.0,68757947.0,False,anchor_2023
+SERC Reliability Corporation / Central,SRTV,oil,1.0,129360.74199999998,False,anchor_2023
+SERC Reliability Corporation / Central,SRTV,other,1.0,475.496,False,anchor_2023
+SERC Reliability Corporation / Central,SRTV,other_fossil,1.0,10846.629,False,anchor_2023
+SERC Reliability Corporation / Central,SRSO,solar,0.0007554384599811667,1317.0,False,anchor_2023
+SERC Reliability Corporation / Central,SRTV,solar,0.9971807289059929,1738443.42,False,anchor_2023
+SERC Reliability Corporation / Central,SRVC,solar,0.002063832634025997,3598.0,False,anchor_2023
+SERC Reliability Corporation / Central,SRTV,wind,1.0,16213.0,False,anchor_2023
+SERC Reliability Corporation / East,SRVC,biomass,1.0,2989608.838,False,anchor_2023
+SERC Reliability Corporation / East,SRVC,co2,1.0,61534305.2744784,False,anchor_2023
+SERC Reliability Corporation / East,SRVC,coal,1.0,29326931.978,False,anchor_2023
+SERC Reliability Corporation / East,SRVC,gas,1.0,75423109.244,False,anchor_2023
+SERC Reliability Corporation / East,SRSO,geothermal,0.5,0.0,True,synthetic
+SERC Reliability Corporation / East,SRVC,geothermal,0.5,0.0,True,synthetic
+SERC Reliability Corporation / East,SRSO,hydro,0.002379134694907508,80471.0,False,multiyear_2014_2023
+SERC Reliability Corporation / East,SRTV,hydro,0.01602015540732167,541860.0,False,multiyear_2014_2023
+SERC Reliability Corporation / East,SRVC,hydro,0.9816007098977708,4770612.465,False,multiyear_2014_2023
+SERC Reliability Corporation / East,SRVC,nuclear,1.0,97958066.0,False,anchor_2023
+SERC Reliability Corporation / East,SRVC,oil,1.0,171499.219,False,anchor_2023
+SERC Reliability Corporation / East,SRVC,other,1.0,236604.0,False,anchor_2023
+SERC Reliability Corporation / East,SRVC,other_fossil,1.0,44685.38,False,anchor_2023
+SERC Reliability Corporation / East,SRSO,solar,0.000564452791904259,6722.0,False,anchor_2023
+SERC Reliability Corporation / East,SRVC,solar,0.9994355472080957,11902157.0,False,anchor_2023
+SERC Reliability Corporation / East,SRVC,wind,1.0,9795.0,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRSO,biomass,1.0,8813825.862,False,anchor_2023
+SERC Reliability Corporation / Southeastern,FRCC,co2,0.004783589878431383,462373.6409712,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRSO,co2,0.9947859938212942,96154317.9159696,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRTV,co2,0.0004304163002744508,41603.3056656,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRSO,coal,1.0,37243401.545,False,anchor_2023
+SERC Reliability Corporation / Southeastern,FRCC,gas,0.008184686799935104,1128126.0,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRSO,gas,0.9917907546197269,136702229.932,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRTV,gas,2.4558580338071396e-05,3385.001,False,anchor_2023
+SERC Reliability Corporation / Southeastern,FRCC,geothermal,0.25,0.0,True,synthetic
+SERC Reliability Corporation / Southeastern,SRSO,geothermal,0.25,0.0,True,synthetic
+SERC Reliability Corporation / Southeastern,SRTV,geothermal,0.25,0.0,True,synthetic
+SERC Reliability Corporation / Southeastern,SRVC,geothermal,0.25,0.0,True,synthetic
+SERC Reliability Corporation / Southeastern,SRSO,hydro,0.893527608736278,7512033.46875,False,multiyear_2014_2023
+SERC Reliability Corporation / Southeastern,SRTV,hydro,0.007220787247239555,416023.0,False,multiyear_2014_2023
+SERC Reliability Corporation / Southeastern,SRVC,hydro,0.09925160401648242,980581.8571428572,False,multiyear_2014_2023
+SERC Reliability Corporation / Southeastern,SRSO,nuclear,1.0,52135365.0,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRSO,oil,0.9983754521263652,266717.25299999997,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRTV,oil,0.001624547873634716,434.0,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRSO,other,1.0,202.948,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRSO,other_fossil,1.0,90945.407,False,anchor_2023
+SERC Reliability Corporation / Southeastern,FRCC,solar,0.13510432285215002,1399448.0,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRSO,solar,0.8607537720800477,8915926.0,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRTV,solar,0.0007159491873020967,7416.0,False,anchor_2023
+SERC Reliability Corporation / Southeastern,SRVC,solar,0.0034259558805002028,35487.0,False,anchor_2023
+SERC Reliability Corporation / Southeastern,FRCC,wind,0.25,0.0,True,synthetic
+SERC Reliability Corporation / Southeastern,SRSO,wind,0.25,0.0,True,synthetic
+SERC Reliability Corporation / Southeastern,SRTV,wind,0.25,0.0,True,synthetic
+SERC Reliability Corporation / Southeastern,SRVC,wind,0.25,0.0,True,synthetic
+Southwest Power Pool / Central,SPNO,biomass,0.9739026609051626,68516.0,False,anchor_2023
+Southwest Power Pool / Central,SPSO,biomass,0.02609733909483739,1836.0,False,anchor_2023
+Southwest Power Pool / Central,SPNO,co2,0.9313646183279165,28913680.0172304,False,anchor_2023
+Southwest Power Pool / Central,SPSO,co2,0.06852205564205854,2127227.889024,False,anchor_2023
+Southwest Power Pool / Central,SRMW,co2,0.00011332603002489288,3518.1415584,False,anchor_2023
+Southwest Power Pool / Central,SPNO,coal,0.9271959518096977,23239668.983,False,anchor_2023
+Southwest Power Pool / Central,SPSO,coal,0.07280404819030233,1824794.4,False,anchor_2023
+Southwest Power Pool / Central,SPNO,gas,0.9571551816619167,10274812.524,False,anchor_2023
+Southwest Power Pool / Central,SPSO,gas,0.042565167703673384,456926.031,False,anchor_2023
+Southwest Power Pool / Central,SRMW,gas,0.0002796506344099496,3001.977,False,anchor_2023
+Southwest Power Pool / Central,SPNO,geothermal,0.3333333333333333,0.0,True,synthetic
+Southwest Power Pool / Central,SPSO,geothermal,0.3333333333333333,0.0,True,synthetic
+Southwest Power Pool / Central,SRMW,geothermal,0.3333333333333333,0.0,True,synthetic
+Southwest Power Pool / Central,SPNO,hydro,0.9664103373624391,87419.375,False,multiyear_2014_2023
+Southwest Power Pool / Central,SRMW,hydro,0.033589662637560885,5958.0,False,multiyear_2014_2023
+Southwest Power Pool / Central,SPNO,nuclear,1.0,10301865.0,False,anchor_2023
+Southwest Power Pool / Central,SPNO,oil,0.9887059264997732,146073.65300000002,False,anchor_2023
+Southwest Power Pool / Central,SPSO,oil,0.006643928194819539,981.589,False,anchor_2023
+Southwest Power Pool / Central,SRMW,oil,0.004650145305407359,687.023,False,anchor_2023
+Southwest Power Pool / Central,SPNO,other,1.0,3118.0,False,anchor_2023
+Southwest Power Pool / Central,SPNO,other_fossil,0.3333333333333333,0.0,True,synthetic
+Southwest Power Pool / Central,SPSO,other_fossil,0.3333333333333333,0.0,True,synthetic
+Southwest Power Pool / Central,SRMW,other_fossil,0.3333333333333333,0.0,True,synthetic
+Southwest Power Pool / Central,SPNO,solar,0.7011598587997983,132088.0,False,anchor_2023
+Southwest Power Pool / Central,SPSO,solar,0.04474878573134804,8430.0,False,anchor_2023
+Southwest Power Pool / Central,SRMW,solar,0.2540913554688537,47867.0,False,anchor_2023
+Southwest Power Pool / Central,SPNO,wind,0.9702786195860613,26033991.0,False,anchor_2023
+Southwest Power Pool / Central,SPSO,wind,0.02972138041393873,797468.0,False,anchor_2023
+Southwest Power Pool / North,MROW,biomass,1.0,106600.676,False,anchor_2023
+Southwest Power Pool / North,MROW,co2,0.9999963674014852,31908982.6373472,False,anchor_2023
+Southwest Power Pool / North,SPNO,co2,3.632598514724954e-06,115.912944,False,anchor_2023
+Southwest Power Pool / North,MROW,coal,1.0,28676240.7,False,anchor_2023
+Southwest Power Pool / North,MROW,gas,0.9999784486823801,5219150.766,False,anchor_2023
+Southwest Power Pool / North,SPNO,gas,2.1551317619992177e-05,112.482,False,anchor_2023
+Southwest Power Pool / North,MROW,geothermal,0.5,0.0,True,synthetic
+Southwest Power Pool / North,SPNO,geothermal,0.5,0.0,True,synthetic
+Southwest Power Pool / North,MROW,hydro,1.0,9980136.875,False,multiyear_2014_2023
+Southwest Power Pool / North,MROW,nuclear,1.0,6926053.0,False,anchor_2023
+Southwest Power Pool / North,MROW,oil,0.9989831274714078,64365.37,False,anchor_2023
+Southwest Power Pool / North,SPNO,oil,0.001016872528592187,65.518,False,anchor_2023
+Southwest Power Pool / North,MROW,other,1.0,223604.0,False,anchor_2023
+Southwest Power Pool / North,MROW,other_fossil,0.5,0.0,True,synthetic
+Southwest Power Pool / North,SPNO,other_fossil,0.5,0.0,True,synthetic
+Southwest Power Pool / North,MROW,solar,1.0,89673.0,False,anchor_2023
+Southwest Power Pool / North,MROW,wind,0.987316148361766,23664028.0,False,anchor_2023
+Southwest Power Pool / North,SPNO,wind,0.012683851638234007,304007.0,False,anchor_2023
+Southwest Power Pool / South,SPSO,biomass,1.0,941046.645,False,anchor_2023
+Southwest Power Pool / South,ERCT,co2,0.04222040343789915,2233415.3051952,False,anchor_2023
+Southwest Power Pool / South,SPNO,co2,1.0609818870308584e-06,56.1248352,False,anchor_2023
+Southwest Power Pool / South,SPSO,co2,0.9085821697696587,48063049.1126352,False,anchor_2023
+Southwest Power Pool / South,SRMW,co2,0.049196365810555094,2602436.4386496,False,anchor_2023
+Southwest Power Pool / South,SPSO,coal,1.0,18312842.432,False,anchor_2023
+Southwest Power Pool / South,ERCT,gas,0.07389613181497894,5085168.2,False,anchor_2023
+Southwest Power Pool / South,SPNO,gas,1.589913148178038e-07,10.941,False,anchor_2023
+Southwest Power Pool / South,SPSO,gas,0.8255036222551599,56807097.554,False,anchor_2023
+Southwest Power Pool / South,SRMW,gas,0.10060008693854643,6922803.0,False,anchor_2023
+Southwest Power Pool / South,AZNM,geothermal,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,ERCT,geothermal,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,SPNO,geothermal,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,SPSO,geothermal,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,SRMV,geothermal,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,SRMW,geothermal,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,SPNO,hydro,0.00856627447024785,49341.857142857145,False,multiyear_2014_2023
+Southwest Power Pool / South,SPSO,hydro,0.9565694396708797,4898466.25,False,multiyear_2014_2023
+Southwest Power Pool / South,SRMV,hydro,0.03238899189706773,156202.75,False,multiyear_2014_2023
+Southwest Power Pool / South,SRMW,hydro,0.002475293961804787,60693.0,False,multiyear_2014_2023
+Southwest Power Pool / South,AZNM,nuclear,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,ERCT,nuclear,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,SPNO,nuclear,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,SPSO,nuclear,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,SRMV,nuclear,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,SRMW,nuclear,0.16666666666666666,0.0,True,synthetic
+Southwest Power Pool / South,SPNO,oil,0.0006509124547977462,22.059,False,anchor_2023
+Southwest Power Pool / South,SPSO,oil,0.9993490875452022,33867.291,False,anchor_2023
+Southwest Power Pool / South,SPSO,other,1.0,0.0,True,synthetic
+Southwest Power Pool / South,SPSO,other_fossil,1.0,273996.473,False,anchor_2023
+Southwest Power Pool / South,ERCT,solar,0.0018936891707403004,1204.0,False,anchor_2023
+Southwest Power Pool / South,SPSO,solar,0.9462547735437152,601625.0,False,anchor_2023
+Southwest Power Pool / South,SRMV,solar,0.05185153728554442,32967.0,False,anchor_2023
+Southwest Power Pool / South,AZNM,wind,0.04776061062715694,2691301.0,False,anchor_2023
+Southwest Power Pool / South,ERCT,wind,0.08679198044401326,4890711.0,False,anchor_2023
+Southwest Power Pool / South,SPNO,wind,0.020681971150813074,1165425.0,False,anchor_2023
+Southwest Power Pool / South,SPSO,wind,0.8356815018501484,47090488.0,False,anchor_2023
+Southwest Power Pool / South,SRMW,wind,0.009083935927868284,511878.0,False,anchor_2023
+Texas Reliability Entity,ERCT,biomass,1.0,412164.49100000004,False,anchor_2023
+Texas Reliability Entity,ERCT,co2,0.9752017190292218,157171683.48346078,False,anchor_2023
+Texas Reliability Entity,SPSO,co2,0.024798280970778137,3996698.8281696,False,anchor_2023
+Texas Reliability Entity,ERCT,coal,0.9441905988187189,60420147.4,False,anchor_2023
+Texas Reliability Entity,SPSO,coal,0.05580940118128114,3571325.8,False,anchor_2023
+Texas Reliability Entity,ERCT,gas,1.0,228850684.333,False,anchor_2023
+Texas Reliability Entity,ERCT,geothermal,0.5,0.0,True,synthetic
+Texas Reliability Entity,SPSO,geothermal,0.5,0.0,True,synthetic
+Texas Reliability Entity,ERCT,hydro,1.0,598980.48625,False,multiyear_2014_2023
+Texas Reliability Entity,ERCT,nuclear,1.0,40679870.0,False,anchor_2023
+Texas Reliability Entity,ERCT,oil,0.9637770201854249,213046.005,False,anchor_2023
+Texas Reliability Entity,SPSO,oil,0.03622297981457505,8007.206,False,anchor_2023
+Texas Reliability Entity,ERCT,other,1.0,415445.0,False,anchor_2023
+Texas Reliability Entity,ERCT,other_fossil,1.0,1696010.173,False,anchor_2023
+Texas Reliability Entity,ERCT,solar,1.0,28016610.96,False,anchor_2023
+Texas Reliability Entity,ERCT,wind,0.9809550627098863,102884008.0,False,anchor_2023
+Texas Reliability Entity,SPSO,wind,0.01904493729011366,1997461.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,AZNM,biomass,0.24768546295356156,53667.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,NWPP,biomass,0.7523145370464385,163007.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,AZNM,co2,0.10373125419119236,7339456.7730288,False,anchor_2023
+Western Electricity Coordinating Council / Basin,CAMX,co2,0.07222297126074237,5110102.8298656,False,anchor_2023
+Western Electricity Coordinating Council / Basin,MROW,co2,0.19515663761301888,13808217.3680304,False,anchor_2023
+Western Electricity Coordinating Council / Basin,NWPP,co2,0.5785781935312729,40937031.7012944,False,anchor_2023
+Western Electricity Coordinating Council / Basin,RMPA,co2,0.05031094340377351,3559727.4630624,False,anchor_2023
+Western Electricity Coordinating Council / Basin,CAMX,coal,0.09282405497109704,4436784.726,False,anchor_2023
+Western Electricity Coordinating Council / Basin,MROW,coal,0.2572010565850921,12293642.200000001,False,anchor_2023
+Western Electricity Coordinating Council / Basin,NWPP,coal,0.5932946432723455,28358173.02,False,anchor_2023
+Western Electricity Coordinating Council / Basin,RMPA,coal,0.05668024517146537,2709190.48,False,anchor_2023
+Western Electricity Coordinating Council / Basin,AZNM,gas,0.44763360399753577,18644328.476999998,False,anchor_2023
+Western Electricity Coordinating Council / Basin,CAMX,gas,0.039552860490786795,1647411.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,NWPP,gas,0.49786089612948403,20736338.828,False,anchor_2023
+Western Electricity Coordinating Council / Basin,RMPA,gas,0.014952639382193343,622790.42,False,anchor_2023
+Western Electricity Coordinating Council / Basin,AZNM,geothermal,0.5383278532723246,2528541.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,CAMX,geothermal,0.10040902460023657,471624.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,NWPP,geothermal,0.3612631221274389,1696863.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,AZNM,hydro,0.19128240282610154,1842192.625,False,multiyear_2014_2023
+Western Electricity Coordinating Council / Basin,MROW,hydro,0.0005454324575212349,5035.7825,False,multiyear_2014_2023
+Western Electricity Coordinating Council / Basin,NWPP,hydro,0.6769430702492755,6586646.3975,False,multiyear_2014_2023
+Western Electricity Coordinating Council / Basin,RMPA,hydro,0.13122909446710174,1272361.125,False,multiyear_2014_2023
+Western Electricity Coordinating Council / Basin,AZNM,nuclear,0.2,0.0,True,synthetic
+Western Electricity Coordinating Council / Basin,CAMX,nuclear,0.2,0.0,True,synthetic
+Western Electricity Coordinating Council / Basin,MROW,nuclear,0.2,0.0,True,synthetic
+Western Electricity Coordinating Council / Basin,NWPP,nuclear,0.2,0.0,True,synthetic
+Western Electricity Coordinating Council / Basin,RMPA,nuclear,0.2,0.0,True,synthetic
+Western Electricity Coordinating Council / Basin,CAMX,oil,0.15111738201879013,12095.245,False,anchor_2023
+Western Electricity Coordinating Council / Basin,MROW,oil,0.30822250190067324,24669.740999999998,False,anchor_2023
+Western Electricity Coordinating Council / Basin,NWPP,oil,0.5398979851519653,43212.755,False,anchor_2023
+Western Electricity Coordinating Council / Basin,RMPA,oil,0.0007621309285712028,61.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,AZNM,other,0.09975918172355602,28265.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,NWPP,other,0.900240818276444,255067.316,False,anchor_2023
+Western Electricity Coordinating Council / Basin,NWPP,other_fossil,1.0,355112.262,False,anchor_2023
+Western Electricity Coordinating Council / Basin,AZNM,solar,0.4535837809467655,6666583.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,CAMX,solar,0.14512874161987777,2133041.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,NWPP,solar,0.3981153901683665,5851332.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,RMPA,solar,0.003172087264990191,46622.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,CAMX,wind,0.040294216909732554,485212.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,NWPP,wind,0.8477390454260385,10208243.0,False,anchor_2023
+Western Electricity Coordinating Council / Basin,RMPA,wind,0.11196673766422892,1348273.0,False,anchor_2023
+Western Electricity Coordinating Council / California North,CAMX,biomass,1.0,3151775.005,False,anchor_2023
+Western Electricity Coordinating Council / California North,CAMX,co2,1.0,16916100.5715408,False,anchor_2023
+Western Electricity Coordinating Council / California North,CAMX,coal,0.5,0.0,True,synthetic
+Western Electricity Coordinating Council / California North,NWPP,coal,0.5,0.0,True,synthetic
+Western Electricity Coordinating Council / California North,CAMX,gas,1.0,42326771.426,False,anchor_2023
+Western Electricity Coordinating Council / California North,CAMX,geothermal,1.0,6015087.0,False,anchor_2023
+Western Electricity Coordinating Council / California North,CAMX,hydro,0.9208881621858834,18775154.6325,False,multiyear_2014_2023
+Western Electricity Coordinating Council / California North,NWPP,hydro,0.07911183781411654,1846718.75,False,multiyear_2014_2023
+Western Electricity Coordinating Council / California North,CAMX,nuclear,1.0,17718368.0,False,anchor_2023
+Western Electricity Coordinating Council / California North,CAMX,oil,1.0,14051.046,False,anchor_2023
+Western Electricity Coordinating Council / California North,CAMX,other,1.0,64276.96,False,anchor_2023
+Western Electricity Coordinating Council / California North,CAMX,other_fossil,1.0,434443.642,False,anchor_2023
+Western Electricity Coordinating Council / California North,CAMX,solar,0.9996739909883309,9432246.0,False,anchor_2023
+Western Electricity Coordinating Council / California North,NWPP,solar,0.0003260090116691301,3076.0,False,anchor_2023
+Western Electricity Coordinating Council / California North,CAMX,wind,1.0,3723480.0,False,anchor_2023
+Western Electricity Coordinating Council / California South,AZNM,biomass,0.11059508168915437,199948.46,False,anchor_2023
+Western Electricity Coordinating Council / California South,CAMX,biomass,0.8894049183108457,1607984.198,False,anchor_2023
+Western Electricity Coordinating Council / California South,AZNM,co2,0.0006044708950679543,12747.045427199999,False,anchor_2023
+Western Electricity Coordinating Council / California South,CAMX,co2,0.9993955291049321,21075192.0616608,False,anchor_2023
+Western Electricity Coordinating Council / California South,CAMX,coal,1.0,208861.65,False,anchor_2023
+Western Electricity Coordinating Council / California South,AZNM,gas,5.9647313025359377e-05,2687.812,False,anchor_2023
+Western Electricity Coordinating Council / California South,CAMX,gas,0.9999403526869747,45059057.029,False,anchor_2023
+Western Electricity Coordinating Council / California South,CAMX,geothermal,1.0,1563299.0,False,anchor_2023
+Western Electricity Coordinating Council / California South,AZNM,hydro,0.1183758982210273,426644.14285714284,False,multiyear_2014_2023
+Western Electricity Coordinating Council / California South,CAMX,hydro,0.8816241017789727,2955194.59625,False,multiyear_2014_2023
+Western Electricity Coordinating Council / California South,AZNM,nuclear,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / California South,CAMX,nuclear,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / California South,NWPP,nuclear,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / California South,AZNM,oil,0.00040412412346809486,23.728,False,anchor_2023
+Western Electricity Coordinating Council / California South,CAMX,oil,0.9995958758765319,58690.906,False,anchor_2023
+Western Electricity Coordinating Council / California South,CAMX,other,1.0,215196.0,False,anchor_2023
+Western Electricity Coordinating Council / California South,CAMX,other_fossil,1.0,1049229.532,False,anchor_2023
+Western Electricity Coordinating Council / California South,AZNM,solar,0.005887224879099446,156281.0,False,anchor_2023
+Western Electricity Coordinating Council / California South,CAMX,solar,0.9939555750171101,26385330.0,False,anchor_2023
+Western Electricity Coordinating Council / California South,NWPP,solar,0.0001572001037904927,4173.0,False,anchor_2023
+Western Electricity Coordinating Council / California South,CAMX,wind,1.0,9712934.0,False,anchor_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,biomass,1.0,2633714.559,False,anchor_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,co2,1.0,36650073.7332576,False,anchor_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,coal,1.0,15715586.702,False,anchor_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,gas,1.0,46096525.769,False,anchor_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,geothermal,1.0,175991.0,False,anchor_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,hydro,0.9940876865717829,117616317.725,False,multiyear_2014_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,RMPA,hydro,0.005912313428217043,783970.5714285715,False,multiyear_2014_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,nuclear,1.0,8435018.0,False,anchor_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,oil,1.0,514698.55400000006,False,anchor_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,other,1.0,870.0,False,anchor_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,other_fossil,1.0,343389.305,False,anchor_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,solar,1.0,2496586.0,False,anchor_2023
+Western Electricity Coordinating Council / Northwest Power Pool Area,NWPP,wind,1.0,20978095.0,False,anchor_2023
+Western Electricity Coordinating Council / Rockies,RMPA,biomass,1.0,133508.0,False,anchor_2023
+Western Electricity Coordinating Council / Rockies,RMPA,co2,1.0,28443394.7512848,False,anchor_2023
+Western Electricity Coordinating Council / Rockies,RMPA,coal,1.0,18730017.17,False,anchor_2023
+Western Electricity Coordinating Council / Rockies,RMPA,gas,1.0,17218649.955000002,False,anchor_2023
+Western Electricity Coordinating Council / Rockies,MROW,geothermal,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / Rockies,NWPP,geothermal,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / Rockies,RMPA,geothermal,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / Rockies,NWPP,hydro,0.011582918438877335,17683.625,False,multiyear_2014_2023
+Western Electricity Coordinating Council / Rockies,RMPA,hydro,0.9884170815611226,1528100.24,False,multiyear_2014_2023
+Western Electricity Coordinating Council / Rockies,MROW,nuclear,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / Rockies,NWPP,nuclear,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / Rockies,RMPA,nuclear,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / Rockies,RMPA,oil,1.0,48551.339,False,anchor_2023
+Western Electricity Coordinating Council / Rockies,RMPA,other,1.0,46766.0,False,anchor_2023
+Western Electricity Coordinating Council / Rockies,MROW,other_fossil,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / Rockies,NWPP,other_fossil,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / Rockies,RMPA,other_fossil,0.3333333333333333,0.0,True,synthetic
+Western Electricity Coordinating Council / Rockies,MROW,solar,0.004980902204392507,17992.0,False,anchor_2023
+Western Electricity Coordinating Council / Rockies,RMPA,solar,0.9950190977956075,3594205.0,False,anchor_2023
+Western Electricity Coordinating Council / Rockies,RMPA,wind,1.0,16091081.0,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,AZNM,biomass,1.0,221874.27899999998,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,AZNM,co2,0.9986759694786587,48871761.384096,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,SPSO,co2,0.001324030521341378,64793.4922656,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,AZNM,coal,1.0,19440366.67,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,AZNM,gas,1.0,57831865.172,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,AZNM,geothermal,1.0,3723405.0,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,AZNM,hydro,0.5465550276013778,3628476.4875,False,multiyear_2014_2023
+Western Electricity Coordinating Council / Southwest,RMPA,hydro,0.45344497239862225,3493216.714285714,False,multiyear_2014_2023
+Western Electricity Coordinating Council / Southwest,AZNM,nuclear,1.0,31522590.0,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,AZNM,oil,0.9755348919489093,34212.354,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,SPSO,oil,0.024465108051090673,858.0,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,AZNM,other,1.0,0.0,True,synthetic
+Western Electricity Coordinating Council / Southwest,AZNM,other_fossil,0.16666666666666666,0.0,True,synthetic
+Western Electricity Coordinating Council / Southwest,CAMX,other_fossil,0.16666666666666666,0.0,True,synthetic
+Western Electricity Coordinating Council / Southwest,ERCT,other_fossil,0.16666666666666666,0.0,True,synthetic
+Western Electricity Coordinating Council / Southwest,NWPP,other_fossil,0.16666666666666666,0.0,True,synthetic
+Western Electricity Coordinating Council / Southwest,RMPA,other_fossil,0.16666666666666666,0.0,True,synthetic
+Western Electricity Coordinating Council / Southwest,SPSO,other_fossil,0.16666666666666666,0.0,True,synthetic
+Western Electricity Coordinating Council / Southwest,AZNM,solar,0.532655444711693,7548700.6,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,CAMX,solar,0.45503478006144954,6448674.0,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,ERCT,solar,0.00032889197218938595,4661.0,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,NWPP,solar,0.007218123879669823,102294.0,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,SPSO,solar,0.00476275937499828,67497.0,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,AZNM,wind,0.8354197900378885,10739628.0,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,CAMX,wind,0.04380715074100957,563157.0,False,anchor_2023
+Western Electricity Coordinating Council / Southwest,SPSO,wind,0.12077305922110197,1552582.0,False,anchor_2023

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Raw downloaded inputs
+data/external/
+
+# OS and Office
+.DS_Store
+~$*
+
+# eGRID workbooks downloaded from EPA by us_water_intensity.fetch_egrid.
+# The three vintages EPA does not host are committed.
+data/egrid/*
+!data/egrid/egrid2023_data_metric_rev1_srl_only.xlsx
+!data/egrid/egrid2024_data_metric.xlsx
+!data/egrid/egrid2025_data_metric.xlsx
